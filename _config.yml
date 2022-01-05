@@ -1,11 +1,13 @@
-title: Minimalist theme
-logo: /assets/img/logo.png
-email: bogus at gmail dot com
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+title:erfan kalandi
+logo: /assets/img/logo.jpg
+email: erfan_kalandi@comp.iust.ac.ir
+description: I'm a student of Computer Science at IUST. I enjoy working with computer and learning new things about it and sharing what I know with others.
 show_downloads: false
 google_analytics: UA-108144808-1
+remote_theme: BDHU/minimalist
 color-scheme: auto
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
