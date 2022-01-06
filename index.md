@@ -2,6 +2,6 @@
 layout: default
 ---
 
- **posts**
+## posts
 
-[اتفافات خوب و بد ترم یک](./post1.html).
+**[اتفافات خوب و بد ترم یک](./post1.html)**
